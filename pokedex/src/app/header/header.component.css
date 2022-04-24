@@ -1,0 +1,17 @@
+header{
+    padding: 20px 0px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+header h1{
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+}
+header h6{
+    text-transform: uppercase;
+    color: rgb(119, 0, 255);
+    letter-spacing: 2px;
+}
+
